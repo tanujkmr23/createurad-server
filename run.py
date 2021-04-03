@@ -15,4 +15,4 @@ application = app
 """
 Uncomment the below line for local 
 """
-application.run(threaded=True)
+#application.run(threaded=True)
